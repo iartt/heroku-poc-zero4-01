@@ -4,6 +4,8 @@
  * Module dependencies.
  */
 
+console.log('enter bin/www')
+
 var app = require('../app');
 var debug = require('debug')('azure-poc-zero4-01:server');
 var http = require('http');
