@@ -1,0 +1,19 @@
+{
+  "name": "azure-poc-zero4-01",
+  "version": "1.0.0",
+  "description": "Simple POC Azure HTML5",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iartt/azure-poc-zero4-01.git"
+  },
+  "author": "iartt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iartt/azure-poc-zero4-01/issues"
+  },
+  "homepage": "https://github.com/iartt/azure-poc-zero4-01#readme"
+}
